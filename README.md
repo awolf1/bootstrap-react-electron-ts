@@ -1,10 +1,10 @@
 # Install
 
 First clone the project:
-`git clone https://github.com/awolf1/tiny-react-electron-ts.git tiny-react-electron-ts`
+`git clone https://github.com/awolf1/bootstrap-react-electron-ts.git bootstrap-react-electron-ts`
 
 Open the directory folder:
-`cd tiny-react-electron-ts`
+`cd bootstrap-react-electron-ts`
 
 Install all the dependencys
 `yarn`
@@ -45,6 +45,7 @@ The build contains a setup file that install and runs app on client.
 
 # Pacotes utilizados
 
+Bootstrap
 Electron
 React
 Typescript
